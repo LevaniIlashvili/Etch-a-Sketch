@@ -36,9 +36,9 @@
 }
 
 .heading {
-    display: inline-block;
+    display: block;
     padding-top: 20px;
-    margin-left: 660px;
+    text-align: center;
     font-size: 30px;
     text-shadow: 5px 5px white;
 
